@@ -16,3 +16,7 @@ poetry install
 
 make sim
 ```
+
+## Result
+
+![screenshot](/screenshot.png)
