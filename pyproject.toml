@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "lja_robotpy"
+name = "simp-robot-sim"
 version = "0.1.0"
 description = ""
 authors = ["Evan Nagle <evan@mantle.co>"]
