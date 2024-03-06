@@ -1,2 +1,4 @@
+SRC_DIR = simp_robot_sim
+
 sim:
-	poetry run python -m robotpy sim
+	cd $(SRC_DIR) && poetry run python -m robotpy sim -h
